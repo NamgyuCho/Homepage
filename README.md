@@ -5,12 +5,9 @@
 
 [<a href="https://github.com/NamgyuCho/NamgyuCho/blob/master/ngcho_CV.pdf">My CV</a>]
 
-###<b>Publication</b>
+####<b>Publication</b>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
   <li>N.-G. Cho, Y.-J. Kim, U. Park, J.-S. Park, and S.-W. Lee, “Group activity recognition with group interaction zone based on relative distance between human objects,” International Journal of Pattern Recognition and Artificial Intelligence, vol. 29, no. 05, p. 1555007, 2015.</li>
   <li>R. Mottaghi, X. Chen, X. Liu, N.-G. Cho, S.-W. Lee, S. Fidler, R. Urtasun, and A. Yuille, “The role of context for object detection and semantic segmentation in the wild,” in IEEE Conference on Computer Vision and Pattern Recognition, pp. 891–898, June 2014.</li>
   <li>Y.-J. Kim, N.-G. Cho, and S.-W. Lee, “Group activity recognition with group interaction zone,” in 22nd International Conference on Pattern Recognition, pp. 3517–3521, Aug 2014.</li>
