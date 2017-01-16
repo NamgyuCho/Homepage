@@ -1,13 +1,12 @@
 ## Nam-Gyu Cho
 
-###<b>Bio.</b>
+###<b>Bio</b>
 ####I am a Ph.D. student at Korea University. My advisor is  Prof. Seong-Whan Lee. My research interests are Computer Vision (3D scene understanding, remote sensing image understanding, human behavior understanding), and Machine Learning. 
 
 
 [<a href="https://github.com/NamgyuCho/NamgyuCho/blob/master/ngcho_CV.pdf">My CV</a>]
 
 ###<b>Publication</b>
-
 ####
 <ul>
   <li>N.-G. Cho, Y.-J. Kim, U. Park, J.-S. Park, and S.-W. Lee, “Group activity recognition with group interaction zone based on relative distance between human objects,” International Journal of Pattern Recognition and Artificial Intelligence, vol. 29, no. 05, p. 1555007, 2015.</li>
