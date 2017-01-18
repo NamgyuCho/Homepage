@@ -6,7 +6,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 92%;
-	max-width: 960px;
+	max-width: 800px;
 	padding-left: 2.275%;
 	padding-right: 2.275%;
 }
@@ -82,7 +82,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .section1 .sectionTitle, .section2 .sectionTitle {
 	font-family: 'Consolas', sans-serif;
 	color: rgba(146,146,146,1.00);
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -99,8 +99,9 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .mainContent .section1 .section1Content {
 	font-family: 'Consolas', sans-serif;
 	font-size: 14px;
-	font-weight: 100;
-	color: rgba(208,207,207,1.00);
+	line-height: 160%;
+	font-weight: 400;	
+	color: rgba(146,146,146,1.00);
 }
 .mainContent .section1 .section1Content span {
 	color: rgba(146,146,146,1.00);
@@ -109,21 +110,21 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .section2 .sectionContentTitle {
 	font-family: 'Consolas', sans-serif;
 	color: rgba(146,146,146,1.00);
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: 700;
 }
 .section2 .sectionContentSubTitle {
 	font-family: 'Consolas', sans-serif;
 	color: rgba(68,67,67,1.00);
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 400;
 }
 .section2 .sectionContent {
 	font-family: 'Consolas', sans-serif;
 	color: rgba(146,146,146,1.00);
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 400;
-	line-height: 1.8;
+	line-height: 160%;
 }
 .mainContent {
 	display: block;
@@ -365,8 +366,8 @@ header .socialNetworkNavBar .socialNetworkNav {
 	display: block;
 	margin-top: 0%;
 	margin-right: 0%;
-	margin-left: 26%;
-	margin-bottom: 0%;
+	margin-left: 5%;
+	margin-bottom: 5%;
 	font-family: 'Consolas', sans-serif;
 }
 .mainContent .section2 {
@@ -374,7 +375,8 @@ header .socialNetworkNavBar .socialNetworkNav {
 }
 .section2 .section2Content {
 	padding: 0px;
-	margin-left: 26%;
+	margin-left: 5%;
+	margin-bottom: 5%;
 	font-family: 'Consolas', sans-serif;
 }
 .mainContent .externalResourcesNav {
