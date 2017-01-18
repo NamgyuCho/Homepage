@@ -3,7 +3,7 @@
 
 <h2><b>Bio</b></h2>
 
-<h3>I am a Ph.D. student at Korea University. My advisor is  Prof. Seong-Whan Lee. My research interests are Computer Vision (3D scene understanding, remote sensing image understanding, human behavior understanding), and Machine Learning. [<a href="https://github.com/NamgyuCho/NamgyuCho/blob/master/ngcho_CV.pdf">My CV</a>]</h3>
+<h3>I am a Ph.D. student at Korea University, advised by <a href="http://pr.korea.ac.kr/sub2_1.php?code=LSW">Prof. Seong-Whan Lee</a> (and <a href="www.cs.jhu.edu/~ayuille">Prof. Alan Yuille</a> for the first three years). My research interests are computer vision and machine learning. My current focus is applying deep learning for remote sening image understanding. Previously I worked on human behavior understanding including 3D human pose tracking, individual action and group activity recognition.</h3>
 <br><br>
 
 <h2><b>Publication</b></h2>
