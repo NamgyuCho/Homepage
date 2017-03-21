@@ -8,8 +8,7 @@
 Over the course of my Ph.D. I participated in several projects: human behavior understanding using the Kinect sensor at Korea University (2010 - now), human body parsing at Korea University (2011 - 2013), constructing a large scale dataset at Korea University and UCLA (2011 - 2014), geometry estimation and perceptual organization methods for assisting visually impaired people at UCLA (2013 - 2014), and deep learning-based remote sensing image understanding at Korea University (2016 - now).</h3>
 <br><br>
 
-<h2><b>Publication</b></h2>
-
+<h2><b>Publication - International</b></h2>
 <h3>
 <ul>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, (under review – minor revision).</li>
@@ -22,5 +21,21 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Adaptive occlusion state estimation for human pose tracking under self-occlusions,” Pattern Recognition, vol. 46, no. 3, pp. 649–661, 2013. [<a href="pdf/2013_PR_Cho.pdf">PDF</a>]</li>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Self-occlusion robust 3d human pose tracking from monocular image sequence,” in Proceedings of IEEE International Conference on Systems, Man and Cybernetics, pp. 254–257, 2012. [<a href="pdf/2012_SMC_Cho.dpf">PDF</a>]</li>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Nonflat observation model and adaptive depth order estimation for 3d human pose tracking,” in Proceedings of IEEE First Asian Conference on Pattern Recognition, pp. 382–386, 2011. [<a href="pdf/2011_ACPR_Cho.pdf">PDF</a>]</li>
+</ul>
+</h3>
+
+<h2><b>Publication - Domestic</b></h2>
+<h3>
+<ul>
+<li>곽인엽 , 조남규 , 이성환, "단안 영상으로부터 복원된 3차원 궤적을 이용한 도심 주행 시나리오에서의 보행자-차량 충돌 예측," 뇌와 인공지능 하계워크숖, 2016, pp. P-7.</li>
+<li>이상준 , 조남규 , 이성환, "Spatio-Temporal Action Descriptor 기반 시점 변화에 강인한 개인 행동 인식," 2015년 한국컴퓨터종합학술대회 논문집, 2015, pp. 841--843.</li> 
+<li>조남규, 이성환, "Linelet 기반 디지털 영상 속 라인 세그먼트 검출," 2015년 한국컴퓨터종합 학술대회 논문집, 2015, pp. 876--878.</li>
+<li>박세호, 조남규, 이성환, "Actionlet Gradient를 이용한 휴먼 상호 행동 인식," 한국정보과학회 제41회 정기총회 및 동계학술발표회, 2014.</li>
+<li>김영지, 조남규, 이성환, "개별 휴먼 객체간 거리 변화 특성에 따른 상호 작용 영역 기반의 그룹 행동 인식," 26회 영상처리 및 이해에 관한 워크샵, 2014, P-145.</li>
+<li>조남규, Alan Yuille, 이성환, "Introduction to KU Dataset for Object Parsing, Scene Segmentation, , Scene 3D Geometry Estimation," 뇌와 인공지능 심포지엄, 2013, PS-19.</li> 
+<li>조남규, Alan Yuille, 이성환, "인체 구성요소 분석을 위한 변형 가능한 구성 모델," 한국인지과학회 춘계학술대회논문집, 2012, pp. 136.</li> 
+<li>조남규, Alan Yuille, 이성환, "Hierarchical Configural Deformable Templates for Human Body Parsing under Self-Occlusion," 뇌와 인공지능 심포지엄, 2012.</li> 
+<li>조남규, 이성환, "3차원 인체 포즈 추적을 위한 가려짐에 강인한 관측치 모델," 한국컴퓨터종합학술대회 논문집, 2011, pp. 390--392.</li> 
+<li>조남규, 이성환, "연속적인 단안 영상에서의 3차원 인체 포즈 추적을 위한 적응적인 자체 가려짐 추론 방법," 제 37회 한국정보과학회 추계학술발표회 발표 논문집, 2010, pp. 348--351.</li>
 </ul>
 </h3>
