@@ -9,7 +9,7 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <br><br>
 
 <h2><b>Publication - International</b></h2>
-<h3>
+<h4>
 <ul>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, (under review – minor revision).</li>
 <li>N.-G. Cho, S.-H. Park, J.-S. Park, U. Park, and S.-W. Lee, “Compositional interaction descriptor for human interaction recognition,” Neurocomputing, (under review).</li>
@@ -22,10 +22,10 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Self-occlusion robust 3d human pose tracking from monocular image sequence,” in Proceedings of IEEE International Conference on Systems, Man and Cybernetics, pp. 254–257, 2012. [<a href="pdf/2012_SMC_Cho.dpf">PDF</a>]</li>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Nonflat observation model and adaptive depth order estimation for 3d human pose tracking,” in Proceedings of IEEE First Asian Conference on Pattern Recognition, pp. 382–386, 2011. [<a href="pdf/2011_ACPR_Cho.pdf">PDF</a>]</li>
 </ul>
-</h3>
+</h4>
 
 <h2><b>Publication - Domestic</b></h2>
-<h3>
+<h4>
 <ul>
 <li>곽인엽, 조남규, 이성환, "단안 영상으로부터 복원된 3차원 궤적을 이용한 도심 주행 시나리오에서의 보행자-차량 충돌 예측," 뇌와 인공지능 하계워크숖, 2016, pp. P-7.</li>
 <li>이상준, 조남규, 이성환, "Spatio-Temporal Action Descriptor 기반 시점 변화에 강인한 개인 행동 인식," 2015년 한국컴퓨터종합학술대회 논문집, 2015, pp. 841-843.</li> 
@@ -38,4 +38,4 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <li>조남규, 이성환, "3차원 인체 포즈 추적을 위한 가려짐에 강인한 관측치 모델," 한국컴퓨터종합학술대회 논문집, 2011, pp. 390-392.</li> 
 <li>조남규, 이성환, "연속적인 단안 영상에서의 3차원 인체 포즈 추적을 위한 적응적인 자체 가려짐 추론 방법," 제 37회 한국정보과학회 추계학술발표회 발표 논문집, 2010, pp. 348-351.</li>
 </ul>
-</h3>
+</h4>
