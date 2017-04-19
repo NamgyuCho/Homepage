@@ -11,7 +11,7 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <h2><b>Publication - International</b></h2>
 <h4>
 <ul>
-<li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, (under review – minor revision).</li>
+<li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, (Accepted).</li>
 <li>N.-G. Cho, S.-H. Park, J.-S. Park, U. Park, and S.-W. Lee, “Compositional interaction descriptor for human interaction recognition,” Neurocomputing, (under review).</li>
 
 <li>N.-G. Cho, Y.-J. Kim, U. Park, J.-S. Park, and S.-W. Lee, “Group activity recognition with group interaction zone based on relative distance between human objects,” International Journal of Pattern Recognition and Artificial Intelligence, vol. 29, no. 05, p. 1555007, 2015. [<a href="pdf/2015_IJPRAI_Cho.pdf">PDF</a>]</li>		  
