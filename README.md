@@ -9,7 +9,7 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <br><br>
 
 <h2><b>Publication - International</b></h2>
-<h4>
+<h5>
 <ul>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, 10.1109/TPAMI.2017.2703841, 2017. [<a href="https://github.com/NamgyuCho/Linelet">Code</a>]</li>
 <li>N.-G. Cho, S.-H. Park, J.-S. Park, U. Park, and S.-W. Lee, “Compositional interaction descriptor for human interaction recognition,” Neurocomputing, 10.1016/j.neucom.2017.06.009, 2017.</li>
@@ -21,10 +21,10 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Self-occlusion robust 3d human pose tracking from monocular image sequence,” in Proceedings of IEEE International Conference on Systems, Man and Cybernetics, pp. 254–257, 2012. [<a href="pdf/2012_SMC_Cho.dpf">PDF</a>]</li>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “Nonflat observation model and adaptive depth order estimation for 3d human pose tracking,” in Proceedings of IEEE First Asian Conference on Pattern Recognition, pp. 382–386, 2011. [<a href="pdf/2011_ACPR_Cho.pdf">PDF</a>]</li>
 </ul>
-</h4>
+</h5>
 
 <h2><b>Publication - Domestic</b></h2>
-<h4>
+<h5>
 <ul>
 <li>윤다혜, 조남규, 이성환, "Modeling temporal subclasses of action for online action localization from untrimmed video stream," 뇌와 인공지능 하계워크숖, PS-04, 2017.</li>
 	        <li>송현승, 조남규, 이성환, "Siamese structure convolutional neural network for aerial image registration," 한국군사과학기술학회 종합학술대회, pp. 1414-1415, 2017.</li>
@@ -39,4 +39,4 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 		<li>조남규, 이성환, "3차원 인체 포즈 추적을 위한 가려짐에 강인한 관측치 모델," 한국컴퓨터종합학술대회 논문집, pp. 390-392, 2011.</li> 
 		<li>조남규, 이성환, "연속적인 단안 영상에서의 3차원 인체 포즈 추적을 위한 적응적인 자체 가려짐 추론 방법," 제 37회 한국정보과학회 추계학술발표회 발표 논문집, pp. 348-351, 2010.</li>   	      
 </ul>
-</h4>
+</h5>
