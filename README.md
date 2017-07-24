@@ -1,14 +1,14 @@
 <h1>Nam-Gyu Cho</h1>
 <br><br>
 
-<h2><b>Bio</b></h2>
+<h3><b>Bio</b></h3>
 
-<h3>As of March 2017 I am a Postdoctoral Researcher at Korea University. Previously I was a Brain and Cognitive Engineering Ph.D. student at Korea University, working with <a href="http://pr.korea.ac.kr/sub2_1.php?code=LSW">Prof. Seong-Whan Lee</a> (and <a href="www.cs.jhu.edu/~ayuille">Prof. Alan Yuille</a> for the first three years). My research interests are computer vision and machine learning. My current focus is applying deep learning for remote sensing image understanding. Previously I worked on human behavior understanding including 3D human pose tracking, action recognition, and group activity recognition.<br><br>
+<h4>As of March 2017 I am a Postdoctoral Researcher at Korea University. Previously I was a Brain and Cognitive Engineering Ph.D. student at Korea University, working with <a href="http://pr.korea.ac.kr/sub2_1.php?code=LSW">Prof. Seong-Whan Lee</a> (and <a href="www.cs.jhu.edu/~ayuille">Prof. Alan Yuille</a> for the first three years). My research interests are computer vision and machine learning. My current focus is applying deep learning for remote sensing image understanding. Previously I worked on human behavior understanding including 3D human pose tracking, action recognition, and group activity recognition.<br><br>
   
-Over the course of my Ph.D. I participated in several projects: human behavior understanding using the Kinect sensor at Korea University (2010 - now), human body parsing at Korea University (2011 - 2013), constructing a large scale dataset at Korea University and UCLA (2011 - 2014), geometry estimation and perceptual organization methods for assisting visually impaired people at UCLA (2013 - 2014), and deep learning-based remote sensing image understanding at Korea University (2016 - now).</h3>
+Over the course of my Ph.D. I participated in several projects: human behavior understanding using the Kinect sensor at Korea University (2010 - now), human body parsing at Korea University (2011 - 2013), constructing a large scale dataset at Korea University and UCLA (2011 - 2014), geometry estimation and perceptual organization methods for assisting visually impaired people at UCLA (2013 - 2014), and deep learning-based remote sensing image understanding at Korea University (2016 - now).</h4>
 <br><br>
 
-<h2><b>Publication - International</b></h2>
+<h3><b>Publication - International</b></h3>
 <h5>
 <ul>
 <li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, 10.1109/TPAMI.2017.2703841, 2017. [<a href="https://github.com/NamgyuCho/Linelet">Code</a>]</li>
@@ -23,7 +23,7 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 </ul>
 </h5>
 
-<h2><b>Publication - Domestic</b></h2>
+<h3><b>Publication - Domestic</b></h3>
 <h5>
 <ul>
 <li>윤다혜, 조남규, 이성환, "Modeling temporal subclasses of action for online action localization from untrimmed video stream," 뇌와 인공지능 하계워크숖, PS-04, 2017.</li>
