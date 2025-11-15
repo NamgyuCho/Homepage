@@ -12,7 +12,8 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <h5>
 <ul>
 <li>N.-G. Cho, S. Choi, H. C. Lee, T. S. Hwang, J. An, S. Chang, H. Kang, D. Chang, H. Cho, J. Lee, Y. Lee, “Deep Learning Prediction for Radiographic Signs of Canine Appendicular Skeleton: A Comparison Study with Veterinarians,“ Southern European Veterinary Conference, Nov. 2023.</li>
-<li>N.-G. Cho, A. Yuille, and S.-W. Lee, “A novel linelet-based representation for line segment detection,” IEEE Transaction on Pattern Analysis and Machine Intelligence, 10.1109/TPAMI.2017.2703841, 2017. [<a href="https://github.com/NamgyuCho/Linelet">Code</a>]</li>
+<li>D.-H. Yoon*, N.-G. Cho*, S.-W. Lee, "A Novel Online Action Detection Framework from Untrimmed Video Streams," Pattern Recognition, Vol. 106, 2020, pp. 1-11 (*equal contribution).</li>
+<li>N.-G. Cho, A. Yuille, and S.-W. Lee, "A Novel Linelet-based Representation for Line Segment Detection," IEEE Trans. on Pattern Analysis and Machine Intelligence, Vol. 40, No. 5, 2018, pp. 1195-1208.</li>
 <li>N.-G. Cho, S.-H. Park, J.-S. Park, U. Park, and S.-W. Lee, “Compositional interaction descriptor for human interaction recognition,” Neurocomputing, 10.1016/j.neucom.2017.06.009, 2017.</li>
 <li>N.-G. Cho, Y.-J. Kim, U. Park, J.-S. Park, and S.-W. Lee, “Group activity recognition with group interaction zone based on relative distance between human objects,” International Journal of Pattern Recognition and Artificial Intelligence, vol. 29, no. 05, p. 1555007, 2015.</li>		  
 <li>Y.-J. Kim, N.-G. Cho, and S.-W. Lee, “Group activity recognition with group interaction zone,” in 22nd International Conference on Pattern Recognition, pp. 3517–3521, Aug 2014.</li>
