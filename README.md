@@ -1,12 +1,12 @@
-<h1>Nam-Gyu Cho</h1>
+<h1>Nam-Gyu Cho</h1>Applied AI Scientist
 <br><br>
 
-<h3><b>Bio</b></h3>
+<!-- <h3><b>Bio</b></h3>
 
 <h4>As of March 2017 I am a Postdoctoral Researcher at Korea University. Previously I was a Brain and Cognitive Engineering Ph.D. student at Korea University, working with <a href="http://pr.korea.ac.kr/sub2_1.php?code=LSW">Prof. Seong-Whan Lee</a> (and <a href="http://www.cs.jhu.edu/~ayuille">Prof. Alan Yuille</a> for the first three years). My research interests are computer vision, image processing, and machine learning. My current focus is exploiting deep learning models for online human activity detection. Previously I worked on scene understanding (line segment detection and semantic segmentation) and human behavior understanding (3D human pose tracking, action recognition, and group activity recognition).<br><br>
   
 Over the course of my Ph.D. I participated in several projects: human behavior understanding using the Kinect sensor at Korea University (2010 - now), human body parsing at Korea University (2011 - 2013), constructing a large scale dataset at Korea University and UCLA (2011 - 2014), geometry estimation and perceptual organization methods for assisting visually impaired people at UCLA (2013 - 2014), and deep learning-based remote sensing image understanding at Korea University (2016 - now).</h4>
-<br><br>
+<br><br> -->
 
 <h3><b>Publication - International</b></h3>
 <h5>
@@ -46,8 +46,8 @@ Over the course of my Ph.D. I participated in several projects: human behavior u
 <h3><b>Patent</b></h3>
 <h5>
 <ul>
-<li>이상율, 방사선 영상을 이용하여 심장의 크기를 측정하기 위한 방법 및 장치, 등록번호: 10-2837777, 2025-07-18.</li>
-<li>정원진, 클래스 불균형 해소를 위한 데이터 증강 방법 및 장치, 등록번호: 10-2794313, 2025-04-07.</li>
+<li>이상율, 조남규, 주신홍, 방사선 영상을 이용하여 심장의 크기를 측정하기 위한 방법 및 장치, 등록번호: 10-2837777, 2025-07-18.</li>
+<li>정원진, 방두현, 전재현, 조남규, 클래스 불균형 해소를 위한 데이터 증강 방법 및 장치, 등록번호: 10-2794313, 2025-04-07.</li>
 <li>조남규, 김지원, 김태현, 박서빈, 유진수, 조동현, 초해상도 모델의 메타 러닝을 통한 빠른 적응 방법 및 장치, 등록번호: 10-2493492, 2023.01.25.</li>
 <li>조남규, 김창현, 정원진, 딥러닝 기반 음악 생성장치 및 방법, 등록번호: 10-2367772, 2022.02.22.</li>
 <li>정원진, 김창현, 조남규, 생성적 대립 네트워크 기반 음향 변형 시스템 및 방법, 등록번호: 10-2350048, 2022.01.06.</li>
